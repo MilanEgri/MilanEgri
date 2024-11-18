@@ -16,9 +16,6 @@ I blend **technology, creativity, and data-driven strategies** to build innovati
 
 ## Let's Connect:
 - 📰 [DubaiNewsGroup](https://www.dubainewsgroup.com)
-- 🖥️ [My Personal Website](https://www.dubainewsgroup.com/milan)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-
-
-
-
+- 🖥️ [My Personal Website](https://egrimilan.hu/)
+- 🐦 [Twitter](https://x.com/egri_milan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/milanegri/)
