@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm Milán</h1>
-<h3 align="center">I am a software developer from Hungary.</h3>
+# Hi there 👋, I'm Milan!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milanegri&label=Profile%20views&color=0e75b6&style=flat" alt="milanegri" /> </p>
+🚀 **Co-Founder at [DubaiNewsGroup](https://www.dubainewsgroup.com)** | Tech Visionary | Multilingual News Enthusiast 🌍📈
 
-- 🌱 I’m currently learning **Full-Stack Development in a bootcamp**
+I blend **technology, creativity, and data-driven strategies** to build innovative platforms that impact global audiences. At **DubaiNewsGroup**, I lead efforts to deliver **multilingual, culturally relevant news** to readers across the globe. Passionate about **code**, **growth hacking**, and crafting **scalable solutions** for diverse markets.
+
+## What I Do:
+- 🌐 Build and optimize platforms that serve **global, multilingual communities**.
+- 🛠️ Develop tech solutions that support **content delivery** and **reader engagement**.
+- 📊 Use **data analytics** to refine user experiences and drive **organic growth**.
+
+## What I'm Building:
+- 🚀 Aiming for **10k daily readers** at DubaiNewsGroup.
+- ✨ Creating seamless, multilingual user experiences.
+- 💡 Exploring new tech tools and strategies to empower global storytelling.
+
+## Let's Connect:
+- 📰 [DubaiNewsGroup](https://www.dubainewsgroup.com)
+- 🖥️ [My Personal Website](https://www.dubainewsgroup.com/milan)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+
 
 
 
